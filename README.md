@@ -16,4 +16,4 @@
 
 
 #### 4. Will receive notifications regarding the status of video conversion
-![Home Screen](images/notification.png)
+![Home Screen](images/notification1.png)
