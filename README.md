@@ -3,8 +3,8 @@
 
 ### Application Preview
 
-#### 1. Click and select the video
-![Home Screen](images/select%20the%20file.png)
+#### 1. Click and select the folder
+![Home Screen](images/select%20folder.png)
 
 
 #### 2. Select (.mp4) files to convert them, you are not allowed to select files of other format
