@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  background-color: rgba(119, 206, 6, 0.747);
+}
+.homepage__container {
+  text-align: center;
+}
+.homepage__container h4 {
+  font-weight: 500;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.home_button {
+  background-color: rgb(17, 17, 17);
+  padding: 15px 50px;
+}
+.home_button a {
+  color: white;
+  text-decoration: none;
+}
