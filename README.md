@@ -19,4 +19,4 @@ Electron App which convert the input (.mp4) video to HLS (HTTP Live Streaming Vi
 
 
 #### 5. Will receive notifications regarding the status of video conversion
-![Home Screen](/images/notification.png)
+![Home Screen](images/notification.png)
