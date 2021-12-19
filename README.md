@@ -1,9 +1,9 @@
 # Video__Convert
 Electron App which convert the input (.mp4) video to HLS (HTTP Live Streaming Video Format)
-
+### ![Home Screen](src/icons/app.png)
 ### Application Preview
 #### 1. Home Screen
-![Home Screen](images/home.png)
+![Home Screen](images/convert.png)
 
 
 #### 2. Click and select the video
